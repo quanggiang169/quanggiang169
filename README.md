@@ -7,8 +7,8 @@
 
 ## 🛠️ Skills  
 
-| Category | Skills & Applications |
-|----------|-----------------------|
-| 💻 **Technical & Tools** | 🗄️ **SQL (SQL Server):** Querying, cleaning, segmentation <br> 📊 **Tableau & Power BI:** Dashboards, KPI tracking, training analysis <br> 📐 **R (RStudio):** Statistical testing, regression, prediction |
-| 📈 **Statistical Knowledge** | 🔎 **EDA:** Detecting patterns & anomalies <br> 🎲 **Sampling & Probability:** Random sampling, bias detection <br> 📊 **Distributions:** Normal, binomial, applied fitting <br> 🧪 **Hypothesis Testing:** t-test, chi-square, ANOVA <br> 📉 **Regression & Prediction:** Forecasting & modeling <br> ⚡ **Lean Analytics:** Defining actionable metrics |
-| 👥 **HR & Business Domain** | 🧑‍🤝‍🧑 **HR Analytics:** Attrition, turnover, segmentation <br> 🎓 **Training:** Measuring effectiveness, identifying gaps <br> 🏢 **Workforce Planning:** Employee-to-manager ratios, tenure analysis <br> 🌱 **Employee Experience:** Engagement metrics, career path analysis |
+| Category | Skills |
+|----------|--------|
+| 💻 **Technical & Tools** | 🗄️ SQL (data querying & cleaning) <br> 📊 Tableau & Power BI (dashboards, KPI tracking) <br> 📐 R (statistical modeling & prediction) |
+| 📈 **Statistics & Analytics** | 🔎 EDA <br> 🎲 Sampling & Probability <br> 📊 Distributions <br> 🧪 Hypothesis Testing <br> 📉 Regression & Prediction <br> ⚡ Lean Analytics |
+| 👥 **HR & Business Domain** | 🧑‍🤝‍🧑 HR Analytics (attrition, turnover) <br> 🎓 Training Effectiveness <br> 🏢 Workforce Planning <br> 🌱 Employee Experience |
