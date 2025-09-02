@@ -5,42 +5,11 @@
 
 📊 When I’m not working with data, I enjoy exploring industry trends, refining my problem-solving skills, and engaging with the data community. I’m always open to learning from others and exchanging ideas. Here’s to making data-driven decisions that push businesses forward, one analysis at a time! 🚀
 
-## 🛠️ Skills
+## 🛠️ Skills Overview  
 
-<table style="width:100%; text-align:center;">
-  <tr>
-    <th>💻 Technical & Tools</th>
-    <th>📈 Statistics & Analytics</th>
-    <th>👥 HR & Business Domain</th>
-  </tr>
-  <tr>
-    <td>🗄️ SQL</td>
-    <td>🔎 EDA</td>
-    <td>🧑‍🤝‍🧑 HR Analytics</td>
-  </tr>
-  <tr>
-    <td>📊 Tableau / Power BI</td>
-    <td>🎲 Sampling & Probability</td>
-    <td>🎓 Training Effectiveness</td>
-  </tr>
-  <tr>
-    <td>📐 R</td>
-    <td>📊 Distributions</td>
-    <td>🏢 Workforce Planning</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>🧪 Hypothesis Testing</td>
-    <td>🌱 Employee Experience</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>📉 Regression & Prediction</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>⚡ Lean Analytics</td>
-    <td></td>
-  </tr>
-</table>
+| 🌟 Category | 🔧 Skills & Tools | 🎯 Used For |
+|-------------|------------------|-------------|
+| 💻 Technical | 🗄️ SQL <br> 📊 Tableau & Power BI <br> 📐 R | Querying & cleaning data <br> Building dashboards & KPIs <br> Statistical modeling & prediction |
+| 📈 Statistics & Analytics | 🔎 EDA <br> 🎲 Sampling & Probability <br> 📊 Distributions <br> 🧪 Hypothesis Testing <br> 📉 Regression & Prediction <br> ⚡ Lean Analytics | Exploring datasets <br> Drawing inferences <br> Testing assumptions <br> Forecasting & performance optimization |
+| 👥 HR & Business Domain | 🧑‍🤝‍🧑 HR Analytics (attrition, turnover) <br> 🎓 Training Effectiveness <br> 🏢 Workforce Planning <br> 🌱 Employee Experience | Workforce insights <br> Training ROI <br> Planning & allocation <br> Improving engagement |
+| 🧠 Core Skills | 🧩 Problem-Solving <br> 🗂️ Pyramid Communication <br> 📖 Data Storytelling | Breaking down problems <br> Communicating with clarity <br> Turning data into actionable stories |
