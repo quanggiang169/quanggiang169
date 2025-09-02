@@ -7,8 +7,8 @@
 
 ## 🛠️ Skills  
 
-| Category                     | Skills & Applications |
-|------------------------------|-----------------------|
-| **Technical & Tools**        | **SQL (SQL Server):** Querying, cleaning, segmentation <br> **R (RStudio):** Statistical testing, regression, prediction <br> **Tableau & Power BI:** Dashboards, KPI tracking, training analysis |
-| **Statistical Knowledge**    | **EDA:** Detecting patterns/outliers <br> **Sampling & Probability:** Random sampling, bias detection <br> **Distributions:** Normal, binomial, applied fitting <br> **Hypothesis Testing:** t-test, chi-square, ANOVA <br> **Regression & Prediction:** Forecasting trends <br> **Lean Analytics:** Defining actionable metrics |
-| **HR & Business Domain**     | **HR Analytics:** Attrition, turnover, workforce segmentation <br> **Training:** Measuring effectiveness, identifying gaps <br> **Workforce Planning:** Employee-to-manager ratios, tenure analysis <br> **Employee Experience:** Engagement metrics, career path analysis |
+| Category | Skills & Applications |
+|----------|-----------------------|
+| 💻 **Technical & Tools** | 🗄️ **SQL (SQL Server):** Querying, cleaning, segmentation <br> 📊 **Tableau & Power BI:** Dashboards, KPI tracking, training analysis <br> 📐 **R (RStudio):** Statistical testing, regression, prediction |
+| 📈 **Statistical Knowledge** | 🔎 **EDA:** Detecting patterns & anomalies <br> 🎲 **Sampling & Probability:** Random sampling, bias detection <br> 📊 **Distributions:** Normal, binomial, applied fitting <br> 🧪 **Hypothesis Testing:** t-test, chi-square, ANOVA <br> 📉 **Regression & Prediction:** Forecasting & modeling <br> ⚡ **Lean Analytics:** Defining actionable metrics |
+| 👥 **HR & Business Domain** | 🧑‍🤝‍🧑 **HR Analytics:** Attrition, turnover, segmentation <br> 🎓 **Training:** Measuring effectiveness, identifying gaps <br> 🏢 **Workforce Planning:** Employee-to-manager ratios, tenure analysis <br> 🌱 **Employee Experience:** Engagement metrics, career path analysis |
