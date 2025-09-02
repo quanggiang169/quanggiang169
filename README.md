@@ -7,8 +7,11 @@
 
 ## 🛠️ Skills  
 
-| Category | Skills |
-|----------|--------|
-| 💻 **Technical & Tools** | 🗄️ SQL (data querying & cleaning) <br> 📊 Tableau & Power BI (dashboards, KPI tracking) <br> 📐 R (statistical modeling & prediction) |
-| 📈 **Statistics & Analytics** | 🔎 EDA <br> 🎲 Sampling & Probability <br> 📊 Distributions <br> 🧪 Hypothesis Testing <br> 📉 Regression & Prediction <br> ⚡ Lean Analytics |
-| 👥 **HR & Business Domain** | 🧑‍🤝‍🧑 HR Analytics (attrition, turnover) <br> 🎓 Training Effectiveness <br> 🏢 Workforce Planning <br> 🌱 Employee Experience |
+| 💻 Technical & Tools | 📈 Statistics & Analytics | 👥 HR & Business Domain |
+|----------------------|---------------------------|-------------------------|
+| 🗄️ SQL | 🔎 EDA | 🧑‍🤝‍🧑 HR Analytics |
+| 📊 Tableau / Power BI | 🎲 Sampling & Probability | 🎓 Training Effectiveness |
+| 📐 R | 📊 Distributions | 🏢 Workforce Planning |
+| | 🧪 Hypothesis Testing | 🌱 Employee Experience |
+| | 📉 Regression & Prediction | |
+| | ⚡ Lean Analytics | |
