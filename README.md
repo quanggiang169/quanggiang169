@@ -9,7 +9,7 @@
 
 | 🌟 Category | 🔧 Skills & Tools | 🎯 Used For |
 |-------------|------------------|-------------|
-| 💻 Technical | 🗄️ SQL <br> 📊 Tableau & Power BI <br> 📐 R (Intermediate) <br> 🐍 Python (Basic) | Querying & cleaning data <br> Building dashboards & KPIs <br> Statistical modeling & prediction <br> Basic data manipulation & analysis |
+| 💻 Technical | 🗄️ SQL <br> 📊 Tableau & Power BI <br> 📐 R (Intermediate) <br> 🐍 Python (Pandas & Matplotlib) | Querying & cleaning data <br> Building dashboards & KPIs <br> Statistical modeling & prediction <br> Basic data manipulation & analysis |
 | 📈 Statistics & Analytics | 🔎 EDA <br> 🎲 Sampling & Probability <br> 📊 Distributions <br> 🧪 Hypothesis Testing <br> 📉 Regression & Prediction <br> ⚡ Lean Analytics | Exploring datasets <br> Drawing inferences <br> Testing assumptions <br> Forecasting & performance optimization |
 | 👥 HR & Business Domain | 🧑‍🤝‍🧑 HR Analytics (attrition, turnover) <br> 🎓 Training Effectiveness <br> 🏢 Workforce Planning <br> 🌱 Employee Experience | Workforce insights <br> Training ROI <br> Planning & allocation <br> Improving engagement |
 | 🧠 Core Skills | 🧩 Problem-Solving <br> 🗂️ Pyramid Communication <br> 📖 Data Storytelling | Breaking down problems <br> Communicating with clarity <br> Turning data into actionable stories |
