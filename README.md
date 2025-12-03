@@ -1,15 +1,19 @@
-## Hey there, friend! 👋✨
-🌟 Welcome to my GitHub profile! I’m excited to share my journey as a curious data enthusiast on a mission to become a skilled Data Analyst. I believe data has the power to drive smarter business decisions, uncover valuable insights, and create meaningful impact. My passion lies in transforming raw data into actionable strategies that help businesses grow and innovate.
+## Hey there! 👋✨
+Welcome to my GitHub profile. I’m an HR professional who approaches people decisions through the lens of **data, probability, and market logic**.  
+I believe HR is most valuable when it operates like a business function—using analytical reasoning to **predict workforce risks, optimize decisions, and drive measurable value**.
 
-✨ With a mindset rooted in consistency and a love for lifelong learning, I’m always eager to explore new ideas and improve my analytical skills. One of my favorite quotes is by Feynman: “The first principle is that you must not fool yourself—and you are the easiest person to fool.” This reminds me to stay objective, challenge my assumptions, and seek the truth in data, leading to more accurate and impactful decisions.
+My work combines **HR expertise, data analytics, mathematical thinking, and market insight** to transform raw information into clear, actionable strategies that support business growth.  
+I stay committed to objectivity, structured reasoning, and continuous learning—because the most effective decisions come from evidence, not assumptions.
 
-📊 When I’m not working with data, I enjoy exploring industry trends, refining my problem-solving skills, and engaging with the data community. I’m always open to learning from others and exchanging ideas. Here’s to making data-driven decisions that push businesses forward, one analysis at a time! 🚀
+Here’s to building smarter, data-driven organizations—one analysis at a time. 🚀
+
+---
 
 ## 🛠️ Skills Overview  
 
-| 🌟 Category | 🔧 Skills & Tools | 🎯 Used For |
-|-------------|------------------|-------------|
-| 💻 Technical | 🗄️ SQL <br> 📊 Tableau & Power BI <br> 📐 R (Intermediate) <br> 🐍 Python (Pandas & Matplotlib & Seaborn) | Querying & cleaning data <br> Building dashboards & KPIs <br> Statistical modeling & prediction <br> Basic data manipulation & analysis |
-| 📈 Statistics & Analytics | 🔎 EDA <br> 🎲 Sampling & Probability <br> 📊 Distributions <br> 🧪 Hypothesis Testing <br> 📉 Regression & Prediction <br> ⚡ Lean Analytics | Exploring datasets <br> Drawing inferences <br> Testing assumptions <br> Forecasting & performance optimization |
-| 👥 HR & Business Domain | 🧑‍🤝‍🧑 HR Analytics (attrition, turnover) <br> 🎓 Training Effectiveness <br> 🏢 Workforce Planning <br> 🌱 Employee Experience | Workforce insights <br> Training ROI <br> Planning & allocation <br> Improving engagement |
-| 🧠 Core Skills | 🧩 Problem-Solving <br> 🗂️ Pyramid Communication <br> 📖 Data Storytelling | Breaking down problems <br> Communicating with clarity <br> Turning data into actionable stories |
+| 🌟 Category | 🔧 Skills & Tools | 🎯 Applied For |
+|-------------|------------------|----------------|
+| 💻 Technical | 🗄️ SQL <br> 📊 Power BI & Tableau <br> 🐍 Python (Pandas, NumPy, Matplotlib) <br> 📐 R (Intermediate) | Data querying & transformation <br> Dashboarding & performance tracking <br> Statistical analysis & modeling |
+| 📈 Quantitative Analytics | 🎲 Probability & Statistics <br> 🔎 Exploratory Data Analysis <br> 🧪 Hypothesis Testing <br> 📉 Regression & Forecasting <br> 📏 Optimization Logic | Predictive insights <br> Testing assumptions <br> Risk modeling <br> Data-driven decision frameworks |
+| 👥 HR & Business Domain | 📉 Attrition & Turnover Modeling <br> 🏢 Workforce Planning & Cost Analysis <br> 🔍 Recruitment Funnel Analytics <br> 🌱 Performance & Productivity Metrics | Workforce strategy <br> Cost optimization <br> Hiring efficiency <br> Business impact measurement |
+| 🧠 Core Thinking Skills | 🧩 Structured Problem-Solving <br> 🗂️ Pyramid Communication <br> 📖 Data Storytelling <br> 🧠 Business Logic | Breaking down decisions <br> Executive-level communication <br> Translating data into actions |
