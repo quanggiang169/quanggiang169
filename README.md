@@ -1,19 +1,24 @@
-## Hey there! 👋✨
-Welcome to my GitHub profile. I’m an HR professional with a **business-first mindset**, using **data, probability, and market logic** to make people decisions that directly support business objectives.  
-I believe HR is most valuable when it acts as a **strategic partner**, turning workforce insights into actions that **drive profitability, efficiency, and measurable growth**.
+# Hi there! 👋
 
-My work integrates **HR expertise, data analytics, mathematical reasoning, and market understanding** to design solutions that optimize hiring, retention, performance, and workforce cost.  
-I focus on **evidence-based strategies** that align people decisions with business priorities, ensuring every HR action delivers clear impact.
+I’m an **HR professional focused on helping businesses make better people decisions**.
 
-Here’s to creating **data-driven, business-aligned HR strategies** that move companies forward. 🚀
+I combine **HR, Data, and AI** to improve **workforce planning, recruitment, productivity, retention, and labor costs** — turning people data into practical actions that support business performance.
+
+I also use **AI and automation** to reduce repetitive HR work, improve processes, and make analysis, reporting, and decision-making faster.
+
+## 🎯 What I Believe
+
+I believe **people are a business’s most valuable resource**.
+
+I use **Data and AI not to replace people, but to help businesses get more value from their people — by reducing repetitive work, unlocking human potential, and creating more meaningful work.**
 
 ---
 
-## 🛠️ Skills Overview  
+## 🛠️ Skills
 
-| 🌟 Category | 🔧 Skills & Tools | 🎯 Applied For |
-|-------------|------------------|----------------|
-| 💻 Technical | 🗄️ SQL <br> 📊 Power BI & Tableau <br> 🐍 Python (Pandas, NumPy, Matplotlib) <br> 📐 R (Intermediate) | Data querying & transformation <br> Dashboarding & KPI tracking <br> Statistical modeling & prediction |
-| 📈 Quantitative Analytics | 🎲 Probability & Statistics <br> 🔎 Exploratory Data Analysis <br> 🧪 Hypothesis Testing <br> 📉 Regression & Forecasting <br> 📏 Optimization Logic | Risk assessment <br> Predictive insights <br> Testing assumptions <br> Business-driven decision frameworks |
-| 👥 HR & Business Domain | 📉 Attrition & Turnover Modeling <br> 🏢 Workforce Planning & Cost Analysis <br> 🔍 Recruitment Funnel Analytics <br> 🌱 Performance & Productivity Metrics | Workforce strategy <br> Cost optimization <br> Hiring efficiency <br> Alignment with business outcomes |
-| 🧠 Core Thinking Skills | 🧩 Structured Problem-Solving <br> 🗂️ Pyramid Communication <br> 📖 Data Storytelling <br> 🧠 Business Logic | Breaking down decisions <br> Executive-level communication <br> Translating insights into actionable business results |
+| Area                              | Skills & Tools                                                                           |
+| --------------------------------- | ---------------------------------------------------------------------------------------- |
+| 👥 **HR & People Analytics**      | Workforce Planning · Recruitment · Productivity · Performance · Retention · Labor Cost   |
+| 📊 **Data Analytics**             | Microsoft Office · SQL · Python · R · Power BI · Tableau · Statistics                                       |
+| 🤖 **AI & Automation**            | AI-assisted Analysis · Process Automation · Automated Emails & Notifications · Reporting |
+| 🧠 **Business & Problem Solving** | Root Cause Analysis · Data Storytelling · Business Thinking · Decision Support           |
